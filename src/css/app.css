@@ -9,7 +9,7 @@ body {
   font-size: clamp(72px,10vw,140px);
   line-height: 100%;
   text-align: center;
-  font-style: regular;
+  font-weight: 400;
   padding-top: 25vh;
   margin-left: 10px;
   margin-right: 10px;
