@@ -8,7 +8,7 @@ const links = []
 const IndexPage = () => {
   return (
     <main>
-      <title>Creative Agency in the making</title>
+      <title>Creative Digital Agency in the making</title>
       <h1 className="h1">Coming Soon</h1>
       <div className="whiteSpace">
         <div className="handling">
