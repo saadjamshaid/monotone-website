@@ -40,6 +40,9 @@ body {
   text-decoration: underline;
   cursor: pointer;
 }
+.none {
+  display: none;
+}
 @media (max-width: 800px) {
   .divider {
     flex: 100%;
