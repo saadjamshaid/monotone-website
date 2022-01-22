@@ -8,7 +8,7 @@ const links = []
 const IndexPage = () => {
   return (
     <main>
-      <title>Montone - Always outside the box</title>
+      <title>Creative Agency In The Making</title>
       <h1 className="h1">Coming Soon</h1>
     </main>
   )
