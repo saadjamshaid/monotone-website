@@ -37,9 +37,11 @@ body {
   display: inline-block;
   color: white;
   padding-left: 3px;
+  text-decoration: none;
 }
 .email:hover{
   text-decoration: underline;
+  cursor: pointer;
 }
 .propRight {
   display: inline-block;
