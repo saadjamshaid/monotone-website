@@ -7,7 +7,7 @@ body{
   background-image: url(../images/background.svg);
   justify-content: center;
   margin: 0;
-  color: #fff;
+  color: white;
   font-size: clamp(72px, 10vw, 140px);
   font-family: 'Fira Mono', monospace;
   letter-spacing: -12px;
