@@ -1,12 +1,9 @@
-
-
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-image: url(../images/background.jpg);
   padding-right: 15%;
   padding-left: 15%;
 }
-
 .h1 {
   font-size: clamp(40px,10vw,72px);
   line-height: 100%;
@@ -18,7 +15,6 @@ body {
   text-align: center;
   color: white;
 }
-
 .whiteSpace {
   white-space: nowrap;
   position:absolute;
@@ -37,7 +33,6 @@ body {
   display: inline-block;
   color: white;
   padding-left: 3px;
-  text-decoration: none;
 }
 .email:hover{
   text-decoration: underline;
@@ -58,4 +53,3 @@ body {
    text-align: center;
  }
 }
-
