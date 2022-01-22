@@ -47,4 +47,11 @@ body {
   .divider {
     flex: 100%;
   }
+  .h1 {
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+  }
+  .divider {
+    padding-top: 0vh;
+  }
 }
