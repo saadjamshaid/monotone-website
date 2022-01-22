@@ -6,9 +6,11 @@ body {
 }
 
 .h1 {
-  font-size: 140px;
+  font-size: clamp(72px,10vw,140px);
   line-height: 100%;
   text-align: center;
   font-style: regular;
-  padding-top: 20vh;
+  padding-top: 25vh;
+  margin-left: 10px;
+  margin-right: 10px;
 }
