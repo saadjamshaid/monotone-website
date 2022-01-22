@@ -9,7 +9,7 @@ const IndexPage = () => {
   return (
     <main>
       <title>Montone - Always outside the box</title>
-      <h1 className="h1">Coming Soon</h1>
+      <div title="Coming Soon">Coming Soon</div>
     </main>
   )
 }
