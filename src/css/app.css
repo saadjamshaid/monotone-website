@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo&family=Montserrat&display=swap');
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Archivo', sans-serif;
   background-color: white;
   background-image: url(../images/background.jpg);
   padding-left: 15vw;
