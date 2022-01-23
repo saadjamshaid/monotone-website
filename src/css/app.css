@@ -59,16 +59,25 @@ body {
 @media (max-width: 800px) {
   .divider {
     flex: 100%;
+    padding-top: 0vh;
+  }
+  .header {
+    width: 100%;
+    text-align: center;
   }
   .h1 {
     padding-top: 18vh;
     padding-bottom: 18vh;
   }
-  .divider {
-    padding-top: 0vh;
-  }
   .footer {
     text-align: center;
   }
-
+  .textRightAlign {
+    width: 100%;
+    text-align: center;
+  }
+  .textLeftAlign {
+    width: 100%;
+    text-align: center;
+  }
 }
