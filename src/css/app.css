@@ -18,9 +18,10 @@ body {
   color: white;
 }
 .header {
-  content: url(../images/Logo\ 2.svg);
-  max-height: 65px;
-  padding-top: 25px;
+  background: url(../images/Logo\ 1.svg);
+  background-repeat: no-repeat;
+  padding-top: 60px;
+  margin-top: 25px;
 }
 .footer {
   color: white;
