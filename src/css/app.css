@@ -3,6 +3,8 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-image: url(../images/background.jpg);
+  padding-left: 15vw;
+  padding-right: 15vw;
 }
 * {
   box-sizing: border-box;
@@ -11,21 +13,31 @@ body {
   font-size: clamp(24px,10vw,54px);
   text-align: center;
   font-weight: lighter;
-  padding-top: 40vh;
+  padding-top: 32vh;
   text-align: center;
   color: white;
+}
+.header {
+  content: url(../images/Logo\ 1.svg);
+  max-height: 65px;
+  padding-top: 25px;
 }
 .footer {
   color: white;
   display: flex;
   flex-wrap: wrap;
   white-space: nowrap;
+  padding-top: 18vw;
 }
 .divider {
   flex-grow: 1;
   display: inline-block;
-  text-align: center;
-  padding-top: 18vw;
+}
+.textRightAlign {
+  text-align: right;
+}
+.textLeftAlign {
+  text-align: left;
 }
 .contactUs {
   display: inline-block;
@@ -48,10 +60,14 @@ body {
     flex: 100%;
   }
   .h1 {
-    padding-top: 30vh;
-    padding-bottom: 30vh;
+    padding-top: 18vh;
+    padding-bottom: 18vh;
   }
   .divider {
     padding-top: 0vh;
   }
+  .footer {
+    text-align: center;
+  }
+
 }
