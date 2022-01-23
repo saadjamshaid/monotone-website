@@ -19,7 +19,6 @@ const IndexPage = () => {
              <p className="contactUs">Contact us:</p>
              <a className="email" href="mailto:contact@montone.agency">contact@monotone.agency</a>
           </div>
-
         </div>
         <p className="divider, textRightAlign">© 2022 Monotone. All Rights Reserved.</p>
       </div>
