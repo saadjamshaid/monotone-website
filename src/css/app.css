@@ -4,6 +4,8 @@ body {
   font-family: 'Archivo', sans-serif;
   background-color: white;
   background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   padding-left: 15vw;
   padding-right: 15vw;
 }
