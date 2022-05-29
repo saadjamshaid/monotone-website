@@ -39,11 +39,11 @@ body {
 }
 .textRightAlign {
   text-align: right;
-  font-size: clamp(8px,1vw,16px);
+  font-size: clamp(10px,1vw,16px);
 }
 .textLeftAlign {
   text-align: left;
-  font-size: clamp(8px,1vw,16px);
+  font-size: clamp(10px,1vw,16px);
 }
 .contactUs {
   display: inline-block;
