@@ -36,14 +36,13 @@ body {
 .divider {
   flex-grow: 1;
   display: inline-block;
+  font-size: clamp(10px,1vw,16px);
 }
 .textRightAlign {
   text-align: right;
-  font-size: clamp(10px,1vw,16px);
 }
 .textLeftAlign {
   text-align: left;
-  font-size: clamp(10px,1vw,16px);
 }
 .contactUs {
   display: inline-block;
