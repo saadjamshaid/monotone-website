@@ -60,6 +60,9 @@ body {
   display: none;
 }
 @media (max-width: 800px) {
+  .body {
+    background-image: none;
+  }
   .divider {
     flex: 100%;
     padding-top: 0vh;
@@ -69,7 +72,6 @@ body {
     text-align: center;
   }
   .h1 {
-    padding-top: 18vh;
     padding-bottom: 18vh;
   }
   .footer {
@@ -77,10 +79,12 @@ body {
   }
   .textRightAlign {
     width: 100%;
+    font-size: 10px;
     text-align: center;
   }
   .textLeftAlign {
     width: 100%;
+    font-size: 10px;
     text-align: center;
   }
 }
