@@ -20,7 +20,7 @@ body {
   color: white;
 }
 .header {
-  content: url(../images/full\ logo.svg);
+  /* content: url(../images/full\ logo.svg); */
   padding-top: 40px;
   height: 75px;
   display: hidden;
