@@ -2,7 +2,6 @@
 
 body {
   font-family: 'Archivo', sans-serif;
-  background-color: white;
   background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
   background-size: 120% 120%;
@@ -24,7 +23,7 @@ body {
   content: url(../images/full\ logo.svg);
   padding-top: 40px;
   height: 75px;
-  display: none;
+  display: hidden;
 }
 .footer {
   color: white;
