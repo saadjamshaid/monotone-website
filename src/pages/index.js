@@ -2,6 +2,7 @@ import * as React from "react"
 import '../css/app.css';
 import '../css/typography.css'
 
+var backgroundTheme = "https://www.mboxdrive.com/theme.mp3"
 // data
 const links = []
 
@@ -24,7 +25,7 @@ const IndexPage = () => {
         <p className="textRightAlign">© 2022 Monotone. All Rights Reserved.</p>
         </div>
       </footer>
-      <audio src="https://www.mboxdrive.com/theme.mp3" autoplay="autoplay" loop="loop"></audio>
+      <audio src={backgroundTheme} autoplay="autoplay" loop="loop"></audio>
     </main>
   )
 }
