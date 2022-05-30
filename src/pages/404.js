@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import Layout from '../components/layout'
 
 // styles
 const pageStyles = {
@@ -28,6 +29,10 @@ const codeStyles = {
 const NotFoundPage = () => {
   return (
     <main style={pageStyles}>
+       <Layout pageTitle="About">
+      <p>I'm making this by following the Gatsby Tutorial.</p>
+      <Link to="/">Back to Home</Link>
+    </Layout>
       <title>Not found</title>
       <h1 style={headingStyles}>Page not found</h1>
       <p style={paragraphStyles}>
