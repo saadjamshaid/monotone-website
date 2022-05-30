@@ -1,4 +1,6 @@
 import * as React from "react"
+import { Link } from 'gatsby'
+
 import '../css/app.css';
 import '../css/typography.css'
 
